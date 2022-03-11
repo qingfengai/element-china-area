@@ -1,4 +1,4 @@
-# Element PLUS 中国省市区级联数据
+# Element PLUS 中国省市区级联数据(含港澳台)
 
 
 ## 安装
@@ -161,10 +161,6 @@ value是区域码`"110000"`
 ## 数据来源
 
 [2021年统计用区划代码和城乡划分代码（截止时间：2021-10-31，发布时间：2021-12-30）](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/index.html)
-
-## 参考项目
-
-[element-china-area-data](https://github.com/Plortinus/element-china-area-data)
 
 ## 开发过程
 

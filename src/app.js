@@ -1,5 +1,4 @@
 import ORIGINAL_DATA from './pca-code.json'
-// import REGION_DATAS from 'china-area-data'
 import { cloneDeep } from 'lodash-es'
 
 let REGION_DATA = {
