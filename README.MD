@@ -136,7 +136,7 @@ const { provinceAndCityData, regionData, provinceAndCityDataPlus, regionDataPlus
     </template>
 
     <script>
-      import { regionDataPlus } from 'element-china-area'
+      import { regionDataPlus } from 'element-plus-china-area'
       export default {
         data () {
           return {

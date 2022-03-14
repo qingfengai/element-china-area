@@ -1,6 +1,6 @@
 {
   "name": "element-plus-china-area",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Element PLUS 级联 中国省市区港澳台数据",
   "main": "./dist/app.js",
   "scripts": {
