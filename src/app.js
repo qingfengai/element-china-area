@@ -19,10 +19,6 @@ ORIGINAL_DATA.map((item, index) => {
   })
 })
 
-// console.log(REGION_DATAS)
-// console.log(REGION_DATA)
-
-
 
 // code转汉字大对象
 const CodeToText = {}
